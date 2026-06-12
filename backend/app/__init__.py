@@ -1,0 +1,3 @@
+"""
+TecnoCity ERP - Backend Application
+"""
